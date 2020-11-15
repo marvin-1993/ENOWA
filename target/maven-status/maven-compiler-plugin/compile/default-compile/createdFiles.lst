@@ -1,0 +1,7 @@
+main/App.class
+calculation/Calculations.class
+stringGenerator/StringGenerator.class
+database/ConnectToDB.class
+main/Params.class
+database/PersistDataToDB.class
+database/TableOperations.class
